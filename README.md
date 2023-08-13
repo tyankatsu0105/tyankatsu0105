@@ -4,10 +4,6 @@ Frontend Engineer in Japan.
 
 - To create some work efficiency tools as OSS.
 - To contribute OSS.
-  - I'm often here:
-    - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)
-    - [eslint-plugin-gridsome](https://github.com/gridsome/eslint-plugin-gridsome)
-    - [shipjs](https://github.com/algolia/shipjs)
 
 - To eat spinach 🍽
 
